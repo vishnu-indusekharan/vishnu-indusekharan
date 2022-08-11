@@ -1,6 +1,6 @@
 👋 **Here's a little bit about me:**
 
-- ✨ Network Development Engineer
+- ✨ Network Development Engineer @AWS
 - 🌍 Based in London, UK.
 - 🛠 Mostly code in Python
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/vishnu-indusekharan/) · [email](mailto:vishnu.indusekharan@gmail.com)
